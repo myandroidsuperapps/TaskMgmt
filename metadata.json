@@ -1,0 +1,7 @@
+{
+  "name": "SheetTask AI",
+  "description": "A high-performance task management application featuring intelligent recurrence (One-time, Monthly, Yearly), AI-powered task strategizing via Gemini, and structured data synchronization ready for Google Sheets.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
